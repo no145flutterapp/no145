@@ -27,7 +27,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       height: 8.0,
       width: isActive ? 24.0 : 16.0,
       decoration: BoxDecoration(
-        color: isActive ? Colors.black12 : Colors.white,
+        color: isActive ? Colors.green : Colors.lightGreen,
         borderRadius: BorderRadius.all(Radius.circular(12)),
       ),
     );
@@ -45,18 +45,36 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               end: Alignment.bottomCenter,
               stops: [0.1, 0.4, 0.7, 0.9],
               colors: [
-                Colors.lightGreenAccent,
-                Colors.lightGreen,
-                Colors.green,
-                Colors.green,
+                Colors.white,
+                Colors.white,
+                Colors.white,
+                Colors.white,
               ],
             ),
           ),
           child: Padding(
-            padding: EdgeInsets.symmetric(vertical: 40.0),
+            padding: EdgeInsets.symmetric(vertical: 15.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
+                Container(
+                  alignment: Alignment.topRight,
+                  child: TextButton(
+                    onPressed: () {
+                      Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                              builder: (context) => LoginPage()));
+                    },
+                    child: Text(
+                      'Geç',
+                      style: TextStyle(
+                        color: Colors.green,
+                        fontSize: 20.0,
+                      ),
+                    ),
+                  ),
+                ),
                 Container(
                   height: 600.0,
                   child: PageView(
@@ -86,7 +104,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Çalışma sürelerini belirle.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.white, fontSize: 30, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.green, fontSize: 30, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
@@ -109,7 +127,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Yapılacaklar listeni oluştur.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.white, fontSize: 28, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.green, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
@@ -132,7 +150,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Artık verimli bir şekilde çalışmaya başlayabilirsin.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.white, fontSize: 28, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.green, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
