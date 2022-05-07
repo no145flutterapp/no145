@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:no145/utilities/styles.dart';
-
 import 'package:no145/pages/login.dart';
 
 class OnboardingScreen extends StatefulWidget {
@@ -153,7 +151,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       ),
       bottomSheet: _currentPage == _numPages - 1
           ? Container(
-              height: 100.0,
+              height: 95.0,
               width: double.infinity,
               color: Colors.white,
               child: InkWell(
@@ -165,12 +163,12 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 },
                 child: Center(
                   child: Padding(
-                    padding: EdgeInsets.only(bottom: 30.0),
+                    padding: EdgeInsets.only(bottom: 10.0),
                     child: Text(
                       'Başla',
                       style: TextStyle(
-                        color: Color(0xFF5B16D0),
-                        fontSize: 20.0,
+                        color: Colors.green,
+                        fontSize: 32.0,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
