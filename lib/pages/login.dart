@@ -18,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     var size = MediaQuery.of(context).size;
     return Scaffold(
-        body: Center(
+        body: Center(          
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 10.0),
             child: Container(
@@ -39,6 +39,12 @@ class _LoginPageState extends State<LoginPage> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
+                      Text("FocusTask\n",style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 28,
+
+                      )),
+
                       TextField(
                           controller: _emailController,
                           style: TextStyle(
