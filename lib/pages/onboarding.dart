@@ -8,7 +8,7 @@ class OnboardingScreen extends StatefulWidget {
 }
 
 class _OnboardingScreenState extends State<OnboardingScreen> {
-  final int _numPages = 3;
+  final int _numPages = 4;
   final PageController _pageController = PageController(initialPage: 0);
   int _currentPage = 0;
 
@@ -86,6 +86,21 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       });
                     },
                     children: <Widget>[
+                      Padding(
+                        padding: EdgeInsets.all(40.0),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: <Widget>[
+                            Center(
+                              child: Image(
+                                image: AssetImage(
+                                  'assets/onBoarding_0.png',
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
                       Padding(
                         padding: EdgeInsets.all(40.0),
                         child: Column(
