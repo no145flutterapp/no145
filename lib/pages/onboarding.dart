@@ -27,7 +27,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
       height: 8.0,
       width: isActive ? 24.0 : 16.0,
       decoration: BoxDecoration(
-        color: isActive ? Colors.green : Colors.lightGreen,
+        color: isActive ? Colors.blueGrey : Colors.black12,
         borderRadius: BorderRadius.all(Radius.circular(12)),
       ),
     );
@@ -69,7 +69,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                     child: Text(
                       'Geç',
                       style: TextStyle(
-                        color: Colors.green,
+                        color: Colors.blueGrey,
                         fontSize: 20.0,
                       ),
                     ),
@@ -119,7 +119,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Çalışma sürelerini belirle.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.green, fontSize: 30, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.blueGrey, fontSize: 30, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
@@ -142,7 +142,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Yapılacaklar listeni oluştur.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.green, fontSize: 28, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.blueGrey, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
@@ -165,7 +165,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                             Text(
                               'Artık verimli bir şekilde çalışmaya başlayabilirsin.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.green, fontSize: 28, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.blueGrey, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
@@ -200,7 +200,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                     child: Text(
                       'Başla',
                       style: TextStyle(
-                        color: Colors.green,
+                        color: Colors.blueGrey,
                         fontSize: 32.0,
                         fontWeight: FontWeight.bold,
                       ),
