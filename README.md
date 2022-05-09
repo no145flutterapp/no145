@@ -42,7 +42,15 @@ FocusTask
  - ![Sprint Planning 2](https://user-images.githubusercontent.com/104396899/167392955-5bae1c2e-fb84-4897-89a6-0e39f529e660.png)
  - ![Sprint Planning 3](https://user-images.githubusercontent.com/104396899/167392986-8ffcff0a-1064-4dcb-b9bc-ce5012221dcb.png)
  
-- **Ürün Durumu**: Ekran görüntüleri:
+ - **Ürün Durumu**: Ekran görüntüleri:
+ - ![Giriş ekranı 1](https://user-images.githubusercontent.com/104396899/167447431-69e55292-41e6-40bb-ac4f-3d32094dcef1.jpeg)
+ - ![Giriş ekranı 2](https://user-images.githubusercontent.com/104396899/167447435-9aa45e21-5b9b-459f-b440-3e7863d7aeaf.jpeg)
+ - ![Giriş ekranı 3](https://user-images.githubusercontent.com/104396899/167447411-6ac61e5b-ac45-4e9f-a170-caaff2218167.jpeg)
+ - ![Giriş ekranı 4](https://user-images.githubusercontent.com/104396899/167447416-9aef19a8-fc68-4ac5-bfd7-f505ab2eed23.jpeg)
+ - ![Giriş ekranı 5](https://user-images.githubusercontent.com/104396899/167447420-b53bdb0b-3d68-4b15-bb0d-5e1ed62a9ae2.jpeg)
+ - ![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167447426-d3e216f7-65e9-4fbe-aa14-220cda50ea8b.jpeg)
+
+
 
 - **Sprint Review**: 
 Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
