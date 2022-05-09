@@ -36,21 +36,22 @@ FocusTask
  - **Daily Scrum**: Müsait olunan zamanlarda toplantı yapılıyor, onun dışında herkes mesaj üzerinden neler yaptıgını anlatıyor ve Asana'da ve Miro'da isaretliyor:-
  - [Daily Scrum - Sprint 1](https://user-images.githubusercontent.com/104396899/167386788-a67af617-5bed-423b-945e-5b20f919ad37.png)
  
- - **Sprint board update**: Sprint board screenshotları:
+ - **Sprint board update**: Screenshotları:
  - ![Sprint Planning 1 Board](https://user-images.githubusercontent.com/104396899/167392908-ad5cdcb9-073d-4c76-b21e-2b8cd13fe2c9.png)
  - ![Sprint Planning 1](https://user-images.githubusercontent.com/104396899/167392919-3ebc536f-00e6-4869-9147-5a1d29354dac.png)
  - ![Sprint Planning 2](https://user-images.githubusercontent.com/104396899/167392955-5bae1c2e-fb84-4897-89a6-0e39f529e660.png)
  - ![Sprint Planning 3](https://user-images.githubusercontent.com/104396899/167392986-8ffcff0a-1064-4dcb-b9bc-ce5012221dcb.png)
  
  - **Ürün Durumu**: Ekran görüntüleri:
- - ![Giriş ekranı 1](https://user-images.githubusercontent.com/104396899/167447431-69e55292-41e6-40bb-ac4f-3d32094dcef1.jpeg)
- - ![Giriş ekranı 2](https://user-images.githubusercontent.com/104396899/167447435-9aa45e21-5b9b-459f-b440-3e7863d7aeaf.jpeg)
- - ![Giriş ekranı 3](https://user-images.githubusercontent.com/104396899/167447411-6ac61e5b-ac45-4e9f-a170-caaff2218167.jpeg)
- - ![Giriş ekranı 4](https://user-images.githubusercontent.com/104396899/167447416-9aef19a8-fc68-4ac5-bfd7-f505ab2eed23.jpeg)
- - ![Giriş ekranı 5](https://user-images.githubusercontent.com/104396899/167447420-b53bdb0b-3d68-4b15-bb0d-5e1ed62a9ae2.jpeg)
- - ![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167447426-d3e216f7-65e9-4fbe-aa14-220cda50ea8b.jpeg)
-
-
+ - ![Giriş ekranı 1](https://user-images.githubusercontent.com/104396899/167448164-e378d77d-a2dc-4e2e-be9e-33422ce86e33.jpeg)
+![Giriş ekranı 2](https://user-images.githubusercontent.com/104396899/167448170-e5edfcab-a18f-434b-a613-1f3d2300e891.jpeg)
+![Giriş ekranı 3](https://user-images.githubusercontent.com/104396899/167448173-f6e44832-5084-456e-a37f-6e34a7893a05.jpeg)
+![Giriş ekranı 4](https://user-images.githubusercontent.com/104396899/167448176-f8b12d1e-b245-4418-a5bf-f7d530f587a3.jpeg)
+![Giriş ekranı 5](https://user-images.githubusercontent.com/104396899/167448181-ab31ab87-1f41-4f13-8e60-1007d692c8ff.jpeg)
+![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167448188-f4abadd3-326f-457f-95d4-21d49a7219
+![Task Ekranı 2](https://user-images.githubusercontent.com/104396899/167448342-73d7ed20-78bb-4e16-847d-d38122fc2acb.jpeg)
+![Task ekranı 1](https://user-images.githubusercontent.com/104396899/167448349-f9c5c445-f15b-4ee1-982f-1adf0b0f188b.jpeg)
+ea.jpeg)
 
 - **Sprint Review**: 
 Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
