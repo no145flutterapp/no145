@@ -48,10 +48,10 @@ FocusTask
 ![Giriş ekranı 3](https://user-images.githubusercontent.com/104396899/167448173-f6e44832-5084-456e-a37f-6e34a7893a05.jpeg)
 ![Giriş ekranı 4](https://user-images.githubusercontent.com/104396899/167448176-f8b12d1e-b245-4418-a5bf-f7d530f587a3.jpeg)
 ![Giriş ekranı 5](https://user-images.githubusercontent.com/104396899/167448181-ab31ab87-1f41-4f13-8e60-1007d692c8ff.jpeg)
-![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167448188-f4abadd3-326f-457f-95d4-21d49a7219
+![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167448188-f4abadd3-326f-457f-95d4-21d49a7219ea.jpeg)
 ![Task Ekranı 2](https://user-images.githubusercontent.com/104396899/167448342-73d7ed20-78bb-4e16-847d-d38122fc2acb.jpeg)
 ![Task ekranı 1](https://user-images.githubusercontent.com/104396899/167448349-f9c5c445-f15b-4ee1-982f-1adf0b0f188b.jpeg)
-ea.jpeg)
+
 
 - **Sprint Review**: 
 Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
