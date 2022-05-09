@@ -49,8 +49,9 @@ FocusTask
 ![Giriş ekranı 4](https://user-images.githubusercontent.com/104396899/167448176-f8b12d1e-b245-4418-a5bf-f7d530f587a3.jpeg)
 ![Giriş ekranı 5](https://user-images.githubusercontent.com/104396899/167448181-ab31ab87-1f41-4f13-8e60-1007d692c8ff.jpeg)
 ![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167448188-f4abadd3-326f-457f-95d4-21d49a7219ea.jpeg)
-![Task Ekranı 2](https://user-images.githubusercontent.com/104396899/167448342-73d7ed20-78bb-4e16-847d-d38122fc2acb.jpeg)
-![Task ekranı 1](https://user-images.githubusercontent.com/104396899/167448349-f9c5c445-f15b-4ee1-982f-1adf0b0f188b.jpeg)
+![Task Ekranı 2](https://user-images.githubusercontent.com/104396899/167464870-67a526ca-f8de-4c6b-b522-bbd7953c33cb.jpeg)
+![Task Ekranı 1](https://user-images.githubusercontent.com/104396899/167464876-a34e77e3-cfb1-44e9-bd43-fed5c688f903.jpeg)
+
 
 
 - **Sprint Review**: 
