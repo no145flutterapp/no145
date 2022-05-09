@@ -51,7 +51,7 @@ FocusTask
 ![Giriş ekranı 6](https://user-images.githubusercontent.com/104396899/167448188-f4abadd3-326f-457f-95d4-21d49a7219ea.jpeg)
 ![Task Ekranı 2](https://user-images.githubusercontent.com/104396899/167464870-67a526ca-f8de-4c6b-b522-bbd7953c33cb.jpeg)
 ![Task Ekranı 1](https://user-images.githubusercontent.com/104396899/167464876-a34e77e3-cfb1-44e9-bd43-fed5c688f903.jpeg)
-
+![timer](https://user-images.githubusercontent.com/104396899/167492699-202b144e-43b4-4862-9917-849533b237a4.jpeg)
 
 
 - **Sprint Review**: 
