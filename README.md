@@ -21,7 +21,8 @@ FocusTask
 - Erteleme alışkanlığına sahip insanlar
 ## Product Backlog 
 [Product Backlog Asana - Sprint 1.docx](https://github.com/no145flutterapp/no145/files/8650763/Product.Backlog.Asana.-.Sprint.1.docx)
-
+## Miro Proje Takip URL
+[Miro Proje Takip] (https://miro.com/app/board/uXjVO7wA19E=/?share_link_id=137929258355)
 ---
 # Sprint 1
 -**Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir. 
@@ -31,7 +32,8 @@ FocusTask
 
  Asana'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı görülmektedir. Asana erişime izin vermediği için bu ss'ler yüklenmiştir.
  
- - **Daily Scrum**: Müsait olunan zamanlarda toplantı yapılıyor, onun dışında herkes mesaj üzerinden neler yaptıgını anlatıyor ve Asana'da ve Miro'da isaretliyor:[Daily Scrum - Sprint 1](https://user-images.githubusercontent.com/104396899/167386788-a67af617-5bed-423b-945e-5b20f919ad37.png)
+ - **Daily Scrum**: Müsait olunan zamanlarda toplantı yapılıyor, onun dışında herkes mesaj üzerinden neler yaptıgını anlatıyor ve Asana'da ve Miro'da isaretliyor:-
+ - [Daily Scrum - Sprint 1](https://user-images.githubusercontent.com/104396899/167386788-a67af617-5bed-423b-945e-5b20f919ad37.png)
  
  - **Sprint board update**: Sprint board screenshotları:
  - ![Sprint Planning 1 Board](https://user-images.githubusercontent.com/104396899/167392908-ad5cdcb9-073d-4c76-b21e-2b8cd13fe2c9.png)
@@ -40,4 +42,11 @@ FocusTask
  - ![Sprint Planning 3](https://user-images.githubusercontent.com/104396899/167392986-8ffcff0a-1064-4dcb-b9bc-ce5012221dcb.png)
  
 - **Ürün Durumu**: Ekran görüntüleri:
-- 
+
+- **Sprint Review**: 
+- Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
+
+- **Sprint Retrospective:**
+  - Proje yönetimi için sadece Miro'dan ilerlemeye karar verildi, Asana erişimi çok kısıtlıyor.
+  - Anasayfa ve profili aynı sayfaya koymaya karar verildi, porfil için fazladan bi sayfaya gerek duyulmadı.
+
