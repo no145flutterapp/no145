@@ -37,10 +37,10 @@ FocusTask
  - [Daily Scrum - Sprint 1](https://user-images.githubusercontent.com/104396899/167386788-a67af617-5bed-423b-945e-5b20f919ad37.png)
  
  - **Sprint board update**: Screenshotları:
- - ![Sprint Planning 1 Board](https://user-images.githubusercontent.com/104396899/167392908-ad5cdcb9-073d-4c76-b21e-2b8cd13fe2c9.png)
- - ![Sprint Planning 1](https://user-images.githubusercontent.com/104396899/167392919-3ebc536f-00e6-4869-9147-5a1d29354dac.png)
- - ![Sprint Planning 2](https://user-images.githubusercontent.com/104396899/167392955-5bae1c2e-fb84-4897-89a6-0e39f529e660.png)
- - ![Sprint Planning 3](https://user-images.githubusercontent.com/104396899/167392986-8ffcff0a-1064-4dcb-b9bc-ce5012221dcb.png)
+ ![Sprint Planning 1 Board](https://user-images.githubusercontent.com/104396899/167392908-ad5cdcb9-073d-4c76-b21e-2b8cd13fe2c9.png)
+ ![Sprint Planning 1](https://user-images.githubusercontent.com/104396899/167392919-3ebc536f-00e6-4869-9147-5a1d29354dac.png)
+ ![Sprint Planning 2](https://user-images.githubusercontent.com/104396899/167392955-5bae1c2e-fb84-4897-89a6-0e39f529e660.png)
+ ![Sprint Planning 3](https://user-images.githubusercontent.com/104396899/167392986-8ffcff0a-1064-4dcb-b9bc-ce5012221dcb.png)
  
  - **Ürün Durumu**: Ekran görüntüleri:
  - ![Giriş ekranı 1](https://user-images.githubusercontent.com/104396899/167448164-e378d77d-a2dc-4e2e-be9e-33422ce86e33.jpeg)
