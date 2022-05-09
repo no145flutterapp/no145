@@ -22,7 +22,8 @@ FocusTask
 ## Product Backlog 
 [Product Backlog Asana - Sprint 1.docx](https://github.com/no145flutterapp/no145/files/8650763/Product.Backlog.Asana.-.Sprint.1.docx)
 ## Miro Proje Takip URL
-[Miro Proje Takip] (https://miro.com/app/board/uXjVO7wA19E=/?share_link_id=137929258355)
+[Miro Proje Takip](https://miro.com/app/board/uXjVO7wA19E=/?share_link_id=137929258355)
+
 ---
 # Sprint 1
 -**Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir. 
