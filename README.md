@@ -45,7 +45,7 @@ FocusTask
 - **Ürün Durumu**: Ekran görüntüleri:
 
 - **Sprint Review**: 
-- Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
+Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Giriş ekranına sonradan onborading yapılması mantıklı bulundu.Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Uygulama Firebase'i şu an sadece android'de çalışıyor, ios'un eklenmesi gerekiyor. Chartlar ve rozetlerin yeterli zaman olmamasından dolayı çıkartılması kararlaştırılmıştır. İlerki sprintte tekrar gözden geçirilecektir.
 
 - **Sprint Retrospective:**
   - Proje yönetimi için sadece Miro'dan ilerlemeye karar verildi, Asana erişimi çok kısıtlıyor.
