@@ -62,10 +62,10 @@ Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Gir
   - Anasayfa ve profili aynı sayfaya koymaya karar verildi, porfil için fazladan bi sayfaya gerek duyulmadı.
 
 # Sprint 2
-**Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir.
-**Sprint içinde tamamlanması tahmin edilen puan**: 50
-**Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 128 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 50 ile başlaması gerektiğine karar verildi. 
-**Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacaklar, yapılanlar ve bitenler olarak düzenlendi. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Asana'dan Miro'ya geçiş yapılmıştır.
+- **Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 128 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 50 ile başlaması gerektiğine karar verildi. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacaklar, yapılanlar ve bitenler olarak düzenlendi. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Asana'dan Miro'ya geçiş yapılmıştır.
 
 Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı görülmektedir.
  
