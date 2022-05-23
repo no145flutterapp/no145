@@ -88,4 +88,4 @@ Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı g�
 Timer ekranında dönen top gelmesi planladı. Anasayfa yapılması ve hamburger menü yapılması planlandı. Şifremi unuttum kısmı yapılması planlandı.
 
  **Sprint Retrospective:**
-Timer kısmında çalışmayan bazı butonlar var, gerekli mi değil mi karar verilemedi. Sonraki sprint için herkes yaptığı  kısmı birleştirmek üzerine çalışcak. Şifremi unuttum kısmı yoğrunluktan dolayı diğer sprinte aktarıldı. Anasayfa tam olarak çalışır durumda değil, bu nedenle Ceyda ve Belgin'in ona yoğunlaşması planlandı.
+Timer kısmında çalışmayan bazı butonlar var, gerekli mi değil mi karar verilemedi. Sonraki sprint için herkes yaptığı  kısmı birleştirmek üzerine çalışcak. Şifremi unuttum kısmı yoğunluktan dolayı diğer sprinte aktarıldı. Anasayfa tam olarak çalışır durumda değil, bu nedenle Ceyda ve Belgin'in ona yoğunlaşması planlandı.
