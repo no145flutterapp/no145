@@ -61,3 +61,31 @@ Giriş ekranı, task ekleme ekranı ve timer ekranı yapılması planlandı. Gir
   - Proje yönetimi için sadece Miro'dan ilerlemeye karar verildi, Asana erişimi çok kısıtlıyor.
   - Anasayfa ve profili aynı sayfaya koymaya karar verildi, porfil için fazladan bi sayfaya gerek duyulmadı.
 
+# Sprint 2
+-**Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 128 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 50 ile başlaması gerektiğine karar verildi. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacaklar, yapılanlar ve bitenler olarak düzenlendi. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Asana'dan Miro'ya geçiş yapılmıştır.
+
+Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı görülmektedir.
+ 
+ - **Daily Scrum**: Müsait olunan zamanlarda toplantı yapılıyor, onun dışında herkes mesaj üzerinden neler yaptıgını anlatıyor ve Asana'da ve Miro'da isaretliyor:-
+ - ![Daily Scrum - Sprint 2](https://user-images.githubusercontent.com/104396899/169777397-24bd7472-7942-4d0e-8d35-ec22bccca05f.png)
+
+- **Sprint board update**: Screenshotı:
+- ![Planning Board 1 Sprint 2](https://user-images.githubusercontent.com/104396899/169778249-c9265509-b3d1-4656-9fac-8a30957aca82.png)
+- ![Planning Board 2 Sprint 2](https://user-images.githubusercontent.com/104396899/169777998-d28a8fd4-4b10-4db6-9ddc-acad974c08b4.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![task (1)](https://user-images.githubusercontent.com/104396899/169789666-a311262e-47fd-4b0f-9270-fd15750378ea.png)
+![task (2)](https://user-images.githubusercontent.com/104396899/169789676-4a076674-7316-49f3-8184-12da29509d84.png)
+![timer (2)](https://user-images.githubusercontent.com/104396899/169789679-0cbfe869-366d-4726-9387-d434d16d87ee.jpeg)
+![timer (3)](https://user-images.githubusercontent.com/104396899/169789682-63e7f221-b57c-47cc-9b6b-ca4fdb1f52e8.jpeg)
+![timer (4)](https://user-images.githubusercontent.com/104396899/169789683-dbf445e6-cb54-4f5f-a683-07aea8b7a47b.jpeg)
+![timer (1)](https://user-images.githubusercontent.com/104396899/169789684-f53a3d8f-9a75-4b19-afc6-7dba48a37d7e.jpeg)
+
+- **Sprint Review**: 
+Timer ekranında dönen top gelmesi planladı. Anasayfa yapılması ve hamburger menü yapılması planlandı. Şifremi unuttum kısmı yapılması planlandı.
+
+- **Sprint Retrospective:**
+- Timer kısmında çalışmayan bazı butonlar var, gerekli mi değil mi karar verilemedi. Sonraki sprint için herkes yaptığı  kısmı birleştirmek üzerine çalışcak. Şifremi unuttum kısmı yoğrunluktan dolayı diğer sprinte aktarıldı. Anasayfa tam olarak çalışır durumda değil, bu nedenle Ceyda ve Belgin'in ona yoğunlaşması planlandı.
