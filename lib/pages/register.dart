@@ -29,7 +29,7 @@ class _RegisterPageState extends State<RegisterPage> {
               height: size.height * .7,
               width: size.width * .85,
               decoration: BoxDecoration(
-                  color: Colors.green.withOpacity(.80),
+                  color: const Color(0xff03989E),//Colors.green.withOpacity(.80),
                   borderRadius: BorderRadius.all(Radius.circular(50)),
                   boxShadow: [
                     BoxShadow(
@@ -207,7 +207,7 @@ class _RegisterPageState extends State<RegisterPage> {
                   onPressed: () => Navigator.pop(context),
                   icon: Icon(
                     Icons.arrow_back_ios_outlined,
-                    color: Colors.green.withOpacity(.75),
+                    color: const Color(0xff03989E),//Colors.green.withOpacity(.75),
                     size: 26,
                   ),
                 ),
@@ -218,7 +218,7 @@ class _RegisterPageState extends State<RegisterPage> {
                   "Kayıt ol",
                   style: TextStyle(
                       fontSize: 20,
-                      color: Colors.green.withOpacity(.75),
+                      color: const Color(0xff03989E),//Colors.green.withOpacity(.75),
                       fontWeight: FontWeight.bold),
                 )
               ],

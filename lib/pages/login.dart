@@ -1,3 +1,4 @@
+import 'package:no145/pages/reset.dart';
 import 'package:no145/service/auth_service.dart';
 import 'package:no145/pages/home.dart';
 import 'package:no145/pages/register.dart';
@@ -22,10 +23,10 @@ class _LoginPageState extends State<LoginPage> {
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 10.0),
             child: Container(
-              height: size.height * .5,
+              height: size.height * .6,
               width: size.width * .85,
               decoration: BoxDecoration(
-                  color: Colors.green.withOpacity(.80),
+                  color: const Color(0xff03989E),//Colors.green.withOpacity(.80),
                   borderRadius: BorderRadius.all(Radius.circular(50)),
                   boxShadow: [
                     BoxShadow(
@@ -135,7 +136,27 @@ class _LoginPageState extends State<LoginPage> {
                         ),
                       ),
                       SizedBox(
-                        height: size.height * 0.02,
+                        height: size.height * 0.04,
+                      ),
+                      InkWell(
+                        onTap: () {
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => ResetScreen()));
+                        },
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                          children: [
+                            Text(
+                              "Şifremi Unuttum",
+                              style: TextStyle(color: Colors.white),
+                            ),
+                          ],
+                        ),
+                      ),
+                      SizedBox(
+                        height: size.height * 0.06,
                       ),
                       InkWell(
                         onTap: () {

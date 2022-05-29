@@ -53,7 +53,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
             ),
           ),
           child: Padding(
-            padding: EdgeInsets.symmetric(vertical: 15.0),
+            padding: EdgeInsets.symmetric(vertical: 13.0),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: <Widget>[
@@ -70,7 +70,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                       'Geç',
                       style: TextStyle(
                         color: Colors.blueGrey,
-                        fontSize: 20.0,
+                        fontSize: 25.0,
                       ),
                     ),
                   ),
@@ -87,7 +87,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                     },
                     children: <Widget>[
                       Padding(
-                        padding: EdgeInsets.all(40.0),
+                        padding: EdgeInsets.all(20.0),
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
@@ -102,7 +102,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                         ),
                       ),
                       Padding(
-                        padding: EdgeInsets.all(40.0),
+                        padding: EdgeInsets.all(20.0),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
@@ -115,17 +115,17 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                                 width: 300.0,
                               ),
                             ),
-                            SizedBox(height: 30.0),
+                            SizedBox(height: 20.0),
                             Text(
-                              'Çalışma sürelerini belirle.',
+                              '     Çalışma sürelerini belirle.',
                               textAlign: TextAlign.center,
-                              style: TextStyle(color: Colors.blueGrey, fontSize: 30, fontStyle: FontStyle.italic),
+                              style: TextStyle(color: Colors.blueGrey, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
                           ],
                         ),
                       ),
                       Padding(
-                        padding: EdgeInsets.all(40.0),
+                        padding: EdgeInsets.all(20.0),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
@@ -138,9 +138,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                                 width: 300.0,
                               ),
                             ),
-                            SizedBox(height: 30.0),
+                            SizedBox(height: 20.0),
                             Text(
-                              'Yapılacaklar listeni oluştur.',
+                              '    Yapılacaklar listeni oluştur.',
                               textAlign: TextAlign.center,
                               style: TextStyle(color: Colors.blueGrey, fontSize: 28, fontStyle: FontStyle.italic),
                             ),
@@ -148,7 +148,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                         ),
                       ),
                       Padding(
-                        padding: EdgeInsets.all(40.0),
+                        padding: EdgeInsets.all(20.0),
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: <Widget>[
@@ -161,7 +161,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                                 width: 300.0,
                               ),
                             ),
-                            SizedBox(height: 30.0),
+                            SizedBox(height: 20.0),
                             Text(
                               'Artık verimli bir şekilde çalışmaya başlayabilirsin.',
                               textAlign: TextAlign.center,
