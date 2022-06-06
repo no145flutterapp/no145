@@ -109,6 +109,12 @@ Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı g�
 ![WhatsApp Image 2022-05-29 at 20 04 21](https://user-images.githubusercontent.com/104396899/172229231-75a8230e-070e-4680-b72c-a9430a486580.jpeg)
 ![WhatsApp Image 2022-05-29 at 20 04 24](https://user-images.githubusercontent.com/104396899/172229222-a4be4361-cf4f-4f68-a044-bf24da38f4d1.jpeg)
 ![WhatsApp Image 2022-05-29 at 20 04 20](https://user-images.githubusercontent.com/104396899/172229227-60e204a8-7071-4867-8015-048f694367f0.jpeg)
+![WhatsApp Image 2022-06-06 at 23 41 16](https://user-images.githubusercontent.com/104396899/172245448-a73e4c70-44f8-43ea-ae09-17a814a8e600.jpeg)
+![WhatsApp Image 2022-06-06 at 23 41 17 (2)](https://user-images.githubusercontent.com/104396899/172245463-079ee11b-5e3d-43fb-94e7-a09440c276dc.jpeg)
+![WhatsApp Image 2022-06-06 at 23 41 17 (1)](https://user-images.githubusercontent.com/104396899/172245470-f1734844-9703-4ea6-be67-3a8a5371d2d5.jpeg)
+![WhatsApp Image 2022-06-06 at 23 41 17](https://user-images.githubusercontent.com/104396899/172245481-52f380f5-e8f5-4204-ab11-d539b7c24583.jpeg)
+![WhatsApp Image 2022-06-06 at 23 41 23](https://user-images.githubusercontent.com/104396899/172245490-6dc2610e-3301-40d6-b99b-0e81fd8a736d.jpeg)
+
 
 
 **Sprint Review**: 
