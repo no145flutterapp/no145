@@ -89,3 +89,30 @@ Timer ekranında dönen top gelmesi planladı. Anasayfa yapılması ve hamburger
 
  **Sprint Retrospective:**
 Timer kısmında çalışmayan bazı butonlar var, gerekli mi değil mi karar verilemedi. Sonraki sprint için herkes yaptığı  kısmı birleştirmek üzerine çalışcak. Şifremi unuttum kısmı yoğunluktan dolayı diğer sprinte aktarıldı. Anasayfa tam olarak çalışır durumda değil, bu nedenle Ceyda ve Belgin'in ona yoğunlaşması planlandı.
+
+# Sprint 3
+- **Sprint Notları**: User Story'ler Product Backlog'lar içerisinde yazmaktadır. Product backlog item'lara tıklandığında hikayelerin detayları ve kapsamı okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 42
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 128 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü için olması gerektiğine karar verildi. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz yapılacaklar, yapılanlar ve bitenler olarak düzenlendi. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı görülmektedir.
+ 
+ **Daily Scrum**: Müsait olunan zamanlarda toplantı yapılıyor, onun dışında herkes mesaj üzerinden neler yaptıgını anlatıyor ve Miro'da isaretliyor:-
+![daily sprint3](https://user-images.githubusercontent.com/104396899/172229149-8b2ee79a-9309-45d6-a26d-48a5567cda91.png)
+
+**Sprint board update**: Screenshotı:
+![sprint3](https://user-images.githubusercontent.com/104396899/172229331-7aff4b1f-7705-49b1-8689-04257f06e3c5.png)
+
+
+**Ürün Durumu**: Ekran görüntüleri:
+![WhatsApp Image 2022-05-29 at 20 04 21](https://user-images.githubusercontent.com/104396899/172229231-75a8230e-070e-4680-b72c-a9430a486580.jpeg)
+![WhatsApp Image 2022-05-29 at 20 04 24](https://user-images.githubusercontent.com/104396899/172229222-a4be4361-cf4f-4f68-a044-bf24da38f4d1.jpeg)
+![WhatsApp Image 2022-05-29 at 20 04 20](https://user-images.githubusercontent.com/104396899/172229227-60e204a8-7071-4867-8015-048f694367f0.jpeg)
+
+
+**Sprint Review**: 
+Timer için dönen top, şifremi unuttum kısmı ve hamburger menü yapıldı. Hamburger menü'den geçiş yapılabildiği için anasayfa gereksiz görüldü. Ana sayfaya pomodoroe eklendi.
+
+ **Sprint Retrospective:**
+Timer kısmındaki butonlar kaldırıldı.  Şifremi unuttum kısmı yapıldı. Anasayfa yerine hamburger menü yapıldı. Herkes kendi kısmını diğerlerinin kısmıyla birleştirdi.
