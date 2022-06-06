@@ -121,4 +121,4 @@ Miro'da ürün iş listesi üzerine tıklayınca story'ler ve görev kapsamı g�
 Timer için dönen top, şifremi unuttum kısmı ve hamburger menü yapıldı. Hamburger menü'den geçiş yapılabildiği için anasayfa gereksiz görüldü. Ana sayfaya pomodoroe eklendi.
 
  **Sprint Retrospective:**
-Timer kısmındaki butonlar kaldırıldı.  Şifremi unuttum kısmı yapıldı. Anasayfa yerine hamburger menü yapıldı. Herkes kendi kısmını diğerlerinin kısmıyla birleştirdi.
+Timer kısmındaki butonlar kaldırıldı.  Şifremi unuttum kısmı yapıldı. Anasayfa yerine hamburger menü yapıldı ancak task ekleme kısmını projenin geri kalanıyla birleştiremedeiğimiz için yok. Proje birleştirme son günlere kaldığı için çok fazla hata aldık.
